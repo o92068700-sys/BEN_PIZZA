@@ -1,0 +1,10 @@
+{
+  "description": "Explore a visually stunning mobile menu for بن وبيتزا, allowing café customers to browse delicious food and drink options effortlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
